@@ -1,0 +1,112 @@
+[
+  {
+    "nombre": "Mariana López",
+    "ciudad": "Aguascalientes",
+    "tipo": "Casa",
+    "consumo_bimestral_kwh": 950,
+    "tarifa": "DAC",
+    "etapa": "Cotización enviada",
+    "ultima_interaccion": "2026-09-28",
+    "notas": "Le preocupa el precio. Pidió opciones de financiamiento a 12 meses. Tiene alberca con bomba que consume mucho.",
+    "email": "mariana.lopez@ejemplo.com"
+  },
+  {
+    "nombre": "Restaurante El Fogón",
+    "ciudad": "Aguascalientes",
+    "tipo": "Negocio",
+    "consumo_bimestral_kwh": 3200,
+    "tarifa": "PDBT",
+    "etapa": "Negociación",
+    "ultima_interaccion": "2026-10-15",
+    "notas": "El dueño, Jorge Ramírez, quiere recuperar la inversión en menos de 3 años. Tiene techo de lámina amplio.",
+    "email": "contacto@elfogon.ejemplo.com"
+  },
+  {
+    "nombre": "Carlos Medina",
+    "ciudad": "Durango",
+    "tipo": "Casa",
+    "consumo_bimestral_kwh": 600,
+    "tarifa": "1",
+    "etapa": "Primer contacto",
+    "ultima_interaccion": "2026-10-20",
+    "notas": "Llegó por Instagram. Todavía no envía su recibo de luz. Interesado en el ahorro, no en lo ecológico.",
+    "email": "carlos.medina@ejemplo.com"
+  },
+  {
+    "nombre": "Escuela Primaria Montessori Sol",
+    "ciudad": "Aguascalientes",
+    "tipo": "Negocio",
+    "consumo_bimestral_kwh": 2100,
+    "tarifa": "PDBT",
+    "etapa": "Cotización enviada",
+    "ultima_interaccion": "2026-08-30",
+    "notas": "La directora, Lucía Fernández, necesita aprobación del consejo. Quieren usarlo como proyecto educativo para los alumnos.",
+    "email": "direccion@montessorisol.ejemplo.com"
+  },
+  {
+    "nombre": "Ana Sofía Treviño",
+    "ciudad": "Zacatecas",
+    "tipo": "Casa",
+    "consumo_bimestral_kwh": 1400,
+    "tarifa": "DAC",
+    "etapa": "Cerrado - ganado",
+    "ultima_interaccion": "2026-07-12",
+    "notas": "Se instalaron 9 paneles en julio. Muy contenta, dijo que nos recomendaría con sus vecinos.",
+    "email": "anasofia.trevino@ejemplo.com"
+  },
+  {
+    "nombre": "Taller Mecánico Hermanos Ruiz",
+    "ciudad": "Aguascalientes",
+    "tipo": "Negocio",
+    "consumo_bimestral_kwh": 1800,
+    "tarifa": "PDBT",
+    "etapa": "Cerrado - perdido",
+    "ultima_interaccion": "2026-06-05",
+    "notas": "Se fueron con la competencia porque les dieron un precio 10% más bajo. Volver a contactar en 2027.",
+    "email": "taller.ruiz@ejemplo.com"
+  },
+  {
+    "nombre": "Roberto Gálvez",
+    "ciudad": "Durango",
+    "tipo": "Casa",
+    "consumo_bimestral_kwh": 780,
+    "tarifa": "1",
+    "etapa": "Cotización enviada",
+    "ultima_interaccion": "2026-09-10",
+    "notas": "Jubilado. Quiere pagar de contado. Preguntó cuánto mantenimiento necesitan los paneles.",
+    "email": "roberto.galvez@ejemplo.com"
+  },
+  {
+    "nombre": "Hotel Boutique Casa Real",
+    "ciudad": "Zacatecas",
+    "tipo": "Negocio",
+    "consumo_bimestral_kwh": 5600,
+    "tarifa": "GDMTO",
+    "etapa": "Negociación",
+    "ultima_interaccion": "2026-10-18",
+    "notas": "El gerente, Patricio Solís, compara 3 proveedores. Le importa mucho la garantía y el monitoreo en tiempo real.",
+    "email": "gerencia@casareal.ejemplo.com"
+  },
+  {
+    "nombre": "Daniela Ortiz",
+    "ciudad": "Aguascalientes",
+    "tipo": "Casa",
+    "consumo_bimestral_kwh": 520,
+    "tarifa": "1",
+    "etapa": "Primer contacto",
+    "ultima_interaccion": "2026-10-22",
+    "notas": "Acaba de comprar casa nueva. Quiere saber si vale la pena con un consumo bajo.",
+    "email": "daniela.ortiz@ejemplo.com"
+  },
+  {
+    "nombre": "Panadería La Espiga",
+    "ciudad": "Durango",
+    "tipo": "Negocio",
+    "consumo_bimestral_kwh": 2600,
+    "tarifa": "PDBT",
+    "etapa": "Cotización enviada",
+    "ultima_interaccion": "2026-09-25",
+    "notas": "Los hornos eléctricos son su mayor gasto. La dueña, Teresa Vela, quiere empezar con la mitad del sistema y ampliar después.",
+    "email": "laespiga@ejemplo.com"
+  }
+]
